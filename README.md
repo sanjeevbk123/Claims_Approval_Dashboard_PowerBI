@@ -1,4 +1,4 @@
-# Insurance Claims Performance Dashboard (One-Day Build)
+# Insurance Claims Performance Dashboard (Publish link -https://app.powerbi.com/view?r=eyJrIjoiNGM4MjhhYzUtOGEzZC00MTU1LThiMmUtOTJjMThiYzNhNDExIiwidCI6IjZhZjg0NzUyLTU4MGUtNGQyMy1iNGNlLTRjNDFkODZmZDE1YyJ9)
 
 This project is a compact, portfolio-ready BI solution that demonstrates:
 - Synthetic data generation for insurance claims
